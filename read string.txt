@@ -1,0 +1,15 @@
+#include<stdio.h>
+int main()
+{
+    char initial;
+    char name[10];
+    scanf("%c",&initial);
+    scanf("%s",&name);
+    printf("%c",initial);
+    printf("%s",name);
+    return (0);
+ }
+   
+   
+   
+   
